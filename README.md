@@ -1,15 +1,31 @@
-### Task: Generate dashboard from JSON
+# Generate dashboard from JSON
 
-Layout for start: 
+### Description
 
-![Preview](./src/images/preview.png)
+- Converted array of persons to table rows
 
-You need to calculate them by yourself.
- 
-##### Steps to do this challenge:
-1) For each person from `people` array create table row with 6 table cells (name, gender, born, died, age, century)
-2) Find a table with class `dashboard` in the document.
-3) Append created row to table.
+### Stack
+
+- HTML (BEM)
+- CSS
+- JS
+- API (local JSON)
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/generate_table/)
+
+### Reference Image
+
+<img src="./src/images/preview.png" alt="reference image" width="400px" />
 
 
 ## Demo Links
