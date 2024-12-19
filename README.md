@@ -26,8 +26,3 @@
 ### Reference Image
 
 <img src="./src/images/preview.png" alt="reference image" width="400px" />
-
-
-## Demo Links
-
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_task_generate_table_DOM/)
