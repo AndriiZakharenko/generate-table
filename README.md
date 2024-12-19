@@ -21,7 +21,7 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/generate_table/)
+- [Demo](https://AndriiZakharenko.github.io/generate-table/)
 
 ### Reference Image
 
